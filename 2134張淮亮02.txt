@@ -1,0 +1,31 @@
+<html>
+<head>
+	<meta charset="Big-5">
+	<title>設計的第二個網頁</title>
+</head>
+<body>
+	<backgroundimg="P7.gif"
+	<B><center><font  face=" 微軟正黑體"  size=" 27"  color=" Blue" style="background-color:white">2134張淮亮 HTML表格製作</font></center></B>
+	<center><table width="50%" border="5"  cellspacing="8" cellpadding="10">
+	<tr>
+	    <td colspan="2"  align="center"><B><center><font  face=" 微軟正黑體"  size=" 27"  color=" Blue" >痣與脊椎研究室</font></center></B></td>
+	    
+	</tr>
+
+	<tr>
+	    <td> <IMG src="P6.JPG" width="300"  height="300"></IMG src="P6.JPG" width="300"  height="300"> </td>
+	    <td><A href="https://m.commonhealth.com.tw/article/article.action?nid=65167" target="_blank"><B><center><font  face=" 微軟正黑體"  size=" 27"  color=" Yellow">點我看痣</font></center></B></A></td>
+	</tr>
+
+	<tr>
+	    <td><A href="https://tw.news.yahoo.com/%E8%B5%B0%E8%B7%AF%E6%AD%AA-%E9%82%8A-%E5%87%BA%E7%8F%BE5%E7%97%87%E7%8B%80%E8%84%8A%E6%A4%8E%E4%B8%8D%E5%81%A5%E5%BA%B7-041500276.html" target="_blank"><B><center><font  face=" 微軟正黑體"  size="4" color=" Blue">走路會歪一邊？<P>出現5症狀脊椎不健康</font></center></B></A></td>
+	    <td><A href="http://www.greencross.org.tw/toxin/tox_in_taiwan.html" target="_blank"><B><center><font  face=" 微軟正黑體"  size="10" color=" Blue">台灣常見急性毒藥物中毒的介紹及處理</font></center></B></A></td>
+	</tr>
+
+	</table></center>
+
+</body>
+
+
+
+</html>
